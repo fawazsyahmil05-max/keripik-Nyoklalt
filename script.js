@@ -1,5 +1,5 @@
 function orderNow() {
-    window.location.href = "https://wa.me/6289535947182";
+    window.location.href = "https://wa.me/62895359471852";
 }
 
 function daftarSekarang() {
@@ -29,3 +29,4 @@ setInterval(() => {
     slideIndex = (slideIndex + 1) % slides.length;
     slides[slideIndex].classList.add("active");
 }, 2500);
+
